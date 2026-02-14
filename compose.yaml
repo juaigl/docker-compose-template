@@ -3,6 +3,7 @@ include:
   - apps/addon-manager/compose.yaml
   - apps/adguard/compose.yaml
   - apps/aiolists/compose.yaml
+  - apps/aiomanager/compose.yaml
   - apps/aiometadata/compose.yaml
   - apps/aiostreams/compose.yaml
   - apps/aiostremio/compose.yaml
@@ -17,6 +18,7 @@ include:
   - apps/bitmagnet/compose.yaml
   - apps/borgmatic/compose.yaml
   - apps/byparr/compose.yaml
+  - apps/cinebye/compose.yaml
   - apps/cloudflare-ddns/compose.yaml
   - apps/comet/compose.yaml
   - apps/crowdsec/compose.yaml
@@ -84,6 +86,7 @@ include:
   - apps/stremio-streaming-catalogs/compose.yaml
   - apps/stremio-trakt-addon/compose.yaml
   - apps/stremthru/compose.yaml
+  - apps/syncio/compose.yaml
   - apps/syncribullet/compose.yaml
   - apps/tandoor/compose.yaml
   - apps/tautulli/compose.yaml
